@@ -1,0 +1,21 @@
+2024-05-17 21:03:39.772199+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCTS" not found (this database is empty); SQL statement:
+INSERT INTO products (id, name, price, description, brand, category) VALUES (?, ?, ?, ?, ?, ?) [42104-224]
+2024-05-17 21:04:42.106545+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCTS" not found (this database is empty); SQL statement:
+INSERT INTO products (id, name, price, description, brand, category) VALUES (?, ?, ?, ?, ?, ?) [42104-224]
+2024-05-17 21:05:43.271422+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCTS" not found (this database is empty); SQL statement:
+INSERT INTO products (id, name, price, description, brand, category) VALUES (?, ?, ?, ?, ?, ?) [42104-224]
+2024-05-17 21:06:09.188296+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCTS" not found (this database is empty); SQL statement:
+INSERT INTO products (id, name, price, description, brand, category) VALUES (?, ?, ?, ?, ?, ?) [42104-224]
+2024-05-17 21:07:05.926646+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCTS" not found (this database is empty); SQL statement:
+INSERT INTO products (id, name, price, description, brand, category) VALUES (?, ?, ?, ?, ?, ?) [42104-224]
+2024-05-17 21:14:34.083957+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCTS" not found (this database is empty); SQL statement:
+INSERT INTO products (id, name, price, description, brand, category) VALUES (?, ?, ?, ?, ?, ?) [42104-224]
+2024-05-17 21:15:05.589180+02:00 jdbc[3]: exception
+org.h2.jdbc.JdbcSQLSyntaxErrorException: Table "PRODUCTS" not found (this database is empty); SQL statement:
+INSERT INTO PRODUCTS (id, name, price, description, brand, category) VALUES (?, ?, ?, ?, ?, ?) [42104-224]
